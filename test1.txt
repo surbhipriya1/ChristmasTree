@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8057-150E
+
+ Directory of C:\xampp\htdocs\ChristmasTree
+
+30-12-2022  12:19    <DIR>          .
+30-12-2022  12:19    <DIR>          ..
+30-12-2022  12:19                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  31,886,864,384 bytes free
